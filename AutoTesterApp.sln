@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{071AE9D1-C41D-469E-8D10-FEF99A023DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvokersLib", "Buttons\InvokersLib\InvokersLib.csproj", "{E40F14D8-9643-4903-A79A-4A658FF0C732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LedBulb", "Buttons\LedBulb\LedBulb.csproj", "{C96503E7-FE6E-4A05-8C92-DFD142B52429}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToggleSwitch", "Buttons\ToggleSwitch\ToggleSwitch\ToggleSwitch.csproj", "{49B88FFA-F02C-4709-BA65-9F8996444ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MACButtonLib", "Buttons\MACButtonLib\MACButtonLib.csproj", "{A0A0B292-A0E5-4352-9D24-B3EA29B7E4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesterApp", "AutoTesterApp\TesterApp.csproj", "{EA23843D-534D-40A0-BC36-F3BB3D816A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071AE9D1-C41D-469E-8D10-FEF99A023DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071AE9D1-C41D-469E-8D10-FEF99A023DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071AE9D1-C41D-469E-8D10-FEF99A023DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071AE9D1-C41D-469E-8D10-FEF99A023DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E40F14D8-9643-4903-A79A-4A658FF0C732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E40F14D8-9643-4903-A79A-4A658FF0C732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E40F14D8-9643-4903-A79A-4A658FF0C732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E40F14D8-9643-4903-A79A-4A658FF0C732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C96503E7-FE6E-4A05-8C92-DFD142B52429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96503E7-FE6E-4A05-8C92-DFD142B52429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96503E7-FE6E-4A05-8C92-DFD142B52429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96503E7-FE6E-4A05-8C92-DFD142B52429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49B88FFA-F02C-4709-BA65-9F8996444ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A0B292-A0E5-4352-9D24-B3EA29B7E4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A0B292-A0E5-4352-9D24-B3EA29B7E4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A0B292-A0E5-4352-9D24-B3EA29B7E4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A0B292-A0E5-4352-9D24-B3EA29B7E4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA23843D-534D-40A0-BC36-F3BB3D816A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA23843D-534D-40A0-BC36-F3BB3D816A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA23843D-534D-40A0-BC36-F3BB3D816A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA23843D-534D-40A0-BC36-F3BB3D816A83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F354A798-FB38-4186-8EA3-475D6C15CD62}
+	EndGlobalSection
+EndGlobal
